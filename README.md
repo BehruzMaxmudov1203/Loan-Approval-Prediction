@@ -237,8 +237,8 @@ Feature importance extracted from the **Random Forest Classifier** reveals:
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/your-username/Loan_Approval_Prediction.git
-cd Loan_Approval_Prediction
+git clone https://github.com/BehruzMaxmudov1203/Loan-Approval-Prediction.git
+cd Loan-Approval-Prediction
 ```
 
 ### 2. Set Up Virtual Environment
@@ -326,6 +326,6 @@ Rejection Chance  : 17.00%
 
 ## 📄 License & Author
 
-- **Author**: Behruz ([GitHub Profile](https://github.com/))
+- **Author**: Behruz Maxmudov ([@BehruzMaxmudov1203](https://github.com/BehruzMaxmudov1203))
 - **License**: This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 - **Contributions**: Pull requests, feature requests, and bug reports are welcome!
